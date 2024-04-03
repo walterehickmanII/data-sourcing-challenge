@@ -1,5 +1,5 @@
-# weather-mayne
-## Movie Recommendation System Data Preparation
+# Movie Recommendation System Data Preparation
+## Module 6 data-sourcing-challenge
 This repository contains code for preparing data for a recommendation system aimed at helping people find movie reviews and related movies. The data is extracted from two different sources: The New York Times API and The Movie Database. The extracted text from these APIs can later be used with natural language processing methods.
 
 ## Challenge Overview
